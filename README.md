@@ -45,6 +45,8 @@ Prompt Size Limitations:
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
 
+# Output:
+https://drive.google.com/file/d/1iBxpvKKOYIW9kfG_XCOaidltjsPDKR6o/view?usp=drive_link
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
